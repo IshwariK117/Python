@@ -1,7 +1,7 @@
 # lambda is cstomizable variable ..we can do operation in different scenario
 # perform all arithmetic operation
 
-multiply = lambda a, b: a * b
+multiply = lambda a, b: a *b
 result = multiply(2, 3)
 print(result)
 
